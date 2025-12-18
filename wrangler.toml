@@ -7,9 +7,10 @@ compatibility_date = "2024-01-01"
 [[d1_databases]]
 binding = "TEMP_MAIL_DB"
 database_name = "maill_free_db" #你的d1数据库名称
-database_id = "c82663ac-62b6-4ba6-be81-cbe297f2a3dd" # 你的database_id
+database_id = "ae5aaba5-97f4-467c-9e5e-a9bdcd0c9215" # 你的database_id
 
 # 环境变量
+[vars]
 
 
 # 静态资源目录（Workers + Assets）
